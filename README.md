@@ -8,6 +8,7 @@ The script has 3 command line arguments:
 - Initial File Type
 - Output File Type
 - Absolute Directory
+
 Side note: While neither file type arguments use the period, it wouldn't be difficult to modify the script to have it accept them. 
 
 ```py main.py [Initial File Type] [Output File Type] [Directory]```
