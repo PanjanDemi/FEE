@@ -1,4 +1,4 @@
-# File Type Converter
+# File Extension Exchanger
 
 Hi! You've found my github :3
 
